@@ -1,6 +1,6 @@
 
 # My Favorite Movie Spider-Man: No Way Home
-*italicized text* !Spider-Man
+!Spider-Man
 
 * About the Movie
 *italicized text* Spider-Man: No Way Home is one of my favorite superhero movies. It follows Peter Parker as he faces challenges after his identity is revealed to the world.
